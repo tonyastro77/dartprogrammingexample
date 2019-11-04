@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
               onPressed: () => print('Answer 2'),
               ),
             RaisedButton(
-              child: Text('Answer 3'), 
+              child: Text('Answer 3 lol'), 
               onPressed: answerQuestion,
               ),
           ],
