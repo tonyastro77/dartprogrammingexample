@@ -1,4 +1,4 @@
-#Sun Nov 03 18:18:34 EET 2019
+#Fri Nov 08 21:54:07 EET 2019
 base.0=D\:\\FlutterSelfTeach\\first_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
